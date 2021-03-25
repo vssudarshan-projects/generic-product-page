@@ -1,1 +1,1 @@
-TinDog Starting Files
+A product website for a fictitious app
